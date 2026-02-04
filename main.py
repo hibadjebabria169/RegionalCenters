@@ -7,7 +7,7 @@ import math
 app = FastAPI(
     title="Sports Health Centers API",
     description="API for querying sports and health centers in Centre-Val de Loire region",
-    version="1.0.0"
+    version="2.0.0"  # Updated with expanded dataset
 )
 
 # Enable CORS for web agents
